@@ -1,3 +1,3 @@
 # About Me
 
-A proficient user of R to create scripts that process multi-wave longitudinal data for my job as a data analyst @PBCAR
+Always finding new ways to use R to more efficiently process data whilst minimizing errors
