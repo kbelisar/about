@@ -1,3 +1,3 @@
 # About Me
 
-Always finding new ways to use R to more efficiently process data whilst minimizing errors
+Fully aboard the R train! I am always seeking new ways to use R in my work, and am passionate about learning new techniques and skillsets.
