@@ -1,4 +1,4 @@
-# Greetings
+## Greetings
 
 I'm Kyla (she/her), a self-proclaimed ***datalark***! My journey as a data analyst has taken me on numerous adventures across various disciplines. My background is in sociology, and for the past 2+ years I have worked at **PBCAR**, working on projects related to mental health and substance use research.
 
